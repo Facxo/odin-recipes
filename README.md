@@ -1,0 +1,1 @@
+I'm starting a new journey through programming by following the odin course. This is the first project: a recipe website.
